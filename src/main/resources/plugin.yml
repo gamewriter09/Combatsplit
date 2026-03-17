@@ -1,0 +1,6 @@
+name: CombatSplit
+version: 1.0
+main: me.server.combat.CombatPlugin
+api-version: '1.21'
+depend: [Floodgate]
+author: GameWriter
